@@ -20,10 +20,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-      &kp ESC      &kp J      &kp U             &kp O           &kp F       &kp X    &kp P      &kp C      &kp L   &kp M   &kp V  &kp LEFT_SHIFT
-      &kp TAB      &kp I      &kp E             &kp A           &kp N  &kp PERIOD    &kp Y      &kp D      &kp R   &kp T   &kp S   &kp RIGHT_WIN
- &kp LEFT_ALT  &kp COMMA  &kp UNDER  &kp SINGLE_QUOTE           &kp H       &kp B    &kp W      &kp G      &kp Q   &kp K   &kp Z           &to 4
-                                     &kp LEFT_CONTROL  &kp LEFT_SHIFT   &kp SPACE  &kp RET  &kp SPACE  &kp ENTER
+      &kp ESC      &kp J      &kp U             &kp O           &kp F       &kp X   &kp P      &kp C      &kp L   &kp M   &kp V  &kp BACKSPACE
+      &kp TAB      &kp I      &kp E             &kp A           &kp N  &kp PERIOD   &kp Y      &kp D      &kp R   &kp T   &kp S  &kp RIGHT_WIN
+ &kp LEFT_ALT  &kp COMMA  &kp UNDER  &kp SINGLE_QUOTE           &kp H       &kp B   &kp W      &kp G      &kp Q   &kp K   &kp Z          &to 4
+                                     &kp LEFT_CONTROL  &kp LEFT_SHIFT       &mo 1   &mo 2  &kp SPACE  &kp ENTER
             >;
         };
 
